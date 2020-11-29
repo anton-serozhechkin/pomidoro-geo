@@ -1,2 +1,3 @@
 .env
-pomidoro/
+pom_env/
+.vscode
